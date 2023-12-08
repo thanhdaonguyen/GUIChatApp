@@ -1,1 +1,1 @@
-[![Watch the video](https://youtube.com/shorts/2JfcsS5wr7s)](demo.mov)
+![demo.gif](demo.gif)
